@@ -18,12 +18,21 @@
 
 <!-- Fonts & Icons -->
 <link defer rel="stylesheet" href="{{ '/assets/css/academicons.min.css' | relative_url | bust_file_cache }}">
+<!-- Loaded without blocking rendering, so the page still shows where Google Fonts is unreachable -->
 <link
-  defer
   rel="stylesheet"
   type="text/css"
   href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons&display=swap"
+  media="print"
+  onload="this.media='all'"
 >
+<noscript>
+  <link
+    rel="stylesheet"
+    type="text/css"
+    href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons&display=swap"
+  >
+</noscript>
 
 <!-- Code Syntax Highlighting -->
 <link

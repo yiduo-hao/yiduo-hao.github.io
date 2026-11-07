@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper "Radical" accpeted by CVPR 2024! See you in Seattle! :sparkles:
+Our paper "Radical" accepted by CVPR 2024! See you in Seattle! :sparkles:

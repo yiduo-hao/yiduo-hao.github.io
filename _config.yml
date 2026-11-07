@@ -6,7 +6,7 @@ title: Yiduo Hao # the website title (if blank, full name will be used instead)
 first_name: Yiduo
 middle_name: 
 last_name: Hao
-email: yiduohao@seas.upenn.com
+email: yiduohao@seas.upenn.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Academic website of Yiduo Hao.
 footer_text: >
@@ -306,7 +306,7 @@ scholar:
 
 # Display different badges withs stats for your publications
 enable_publication_badges:
-  altmetric: true # Altmetric badge (https://www.altmetric.com/products/altmetric-badges/)
+  altmetric: false # Altmetric badge (https://www.altmetric.com/products/altmetric-badges/)
   dimensions: true # Dimensions badge (https://badge.dimensions.ai/)
 
 # Filter out certain bibtex entry keywords used internally from the bib output
