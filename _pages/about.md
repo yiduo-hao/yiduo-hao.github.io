@@ -27,4 +27,4 @@ Previously, I finished my undergraduate at the University of Cambridge, where I 
 
 My research focuses on Multimodal Machine Learning, particularly at the intersection of Computer Vision, Audio Processing, and Sensor Fusion. I am also excited about applying these techniques to areas such as AR/VR/XR, Immersive Multimedia, Robotics, and Autonomous Driving.
 
-Email: yiduohao at seas dot upenn dot edu
+Email: yiduohao@seas.upenn.edu
