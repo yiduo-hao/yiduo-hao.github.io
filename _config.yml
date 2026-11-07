@@ -206,6 +206,7 @@ exclude:
   - CONTRIBUTING.md
   - CUSTOMIZE.md
   - docker-compose.yml
+  - docker-compose-slim.yml
   - Dockerfile
   - FAQ.md
   - Gemfile
